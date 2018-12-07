@@ -1,7 +1,7 @@
 # outer-script-html-webpack-plugin
 Inject js into html without webpack compiler.  
 
-Working with [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin).
+Working with [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) and [Webpack 3](https://github.com/webpack/webpack).
 
 # Install
 ```sh
