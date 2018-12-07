@@ -47,3 +47,5 @@ ouput html:
   <script type="text/javascript" src="/public/others.js">
   ...
 ```
+# License
+MIT
