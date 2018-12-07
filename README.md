@@ -1,0 +1,1 @@
+# outer-script-html-webpack-plugin
